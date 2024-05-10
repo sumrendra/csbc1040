@@ -1,1 +1,40 @@
-ra<h1>Hello Sumrendra!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Change Background Color on List Item Selection</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+  }
+</style>
+</head>
+<body>
+
+<h2>Select a color:</h2>
+
+<ul id="colorList">
+  <li onclick="changeColor('lightgreen')">Happy</li>
+  <li onclick="changeColor('brown')">Sad</li>
+  <li onclick="changeColor('red')">Angry</li>
+</ul>
+
+<script>
+  function changeColor(color) {
+    document.body.style.backgroundColor = color;
+  }
+</script>
+
+</body>
+</html>
