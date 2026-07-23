@@ -11,3 +11,5 @@
 **Indian:** VPD/ANABIN for degree recognition — note in each row if ZAB required.
 
 **Thoroughness:** very thorough — **50+** English-taught master’s at public unis outside premium TUM-only list unless fee under Premium_OK cap.
+
+**Application guide (commerce shortlist):** [`commerce-masters-application-guide.md`](commerce-masters-application-guide.md) — eligibility, portals, deadlines, difficulty, and admission chances for Indian B.Com/BBA.
