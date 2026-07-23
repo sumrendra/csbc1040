@@ -1,6 +1,17 @@
 # Global master’s shortlist (Indian applicant)
 
-**Profile (unchanged):** BBA (India), business/customer-success background, target **~12 months** of study, **post-study work with relatively clear rules**, **tuition + typical mandatory university fees ≈ CAD $30,000 or less** (living, visa, flights, blocked-account/GIC-style proof-of-funds **not** included).
+**Profile (unchanged):** BBA (India), business/customer-success background, target **~12 months** of study, **post-study work with relatively clear rules**, **tuition + typical mandatory university fees** around **CAD $30,000** (living, visa, flights, blocked-account/GIC-style proof-of-funds **not** included).
+
+### Budget filter (updated)
+
+| Tier | CAD range | Include in CSV? |
+|------|-----------|-----------------|
+| **Yes** | ≤ 30,000 | Always |
+| **Borderline** | 30,001 – 32,000 | Yes — “slightly over” cap |
+| **Premium_OK** | 32,001 – 38,000 | **Tier A countries only** (Canada, Ireland, UK, New Zealand) when post-study pathway is strong |
+| **No** | > 38,000 (or > 32k for Tier B EU) | Exclude from main list |
+
+**Execution plan:** see [`global-masters-research-PLAN.md`](global-masters-research-PLAN.md).
 
 **FX used for comparison (approx., mid-2026):** CAD $30,000 ≈ **US $22,000** · **€20,000** · **£17,500** · **AUD $33,000** · **NZD $37,000**.
 
