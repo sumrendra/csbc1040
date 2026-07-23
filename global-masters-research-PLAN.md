@@ -47,12 +47,12 @@ See `research/FX-RATES.md` and `research/CSV-SCHEMA.md`.
 
 | Phase | Description | Status |
 |-------|-------------|--------|
-| **0** | Plan, schema, country briefs, branch | 🟡 In progress |
-| **1** | Parallel sub-agent research (8 countries; CA done) | ⬜ Not started |
-| **2** | Lead agent consolidates raw notes → draft CSVs | ⬜ |
-| **3** | Official-source verification pass (fees + immigration) | ⬜ |
-| **4** | Self-review checklist + fix duplicates/errors | ⬜ |
-| **5** | Commit, push, PR update, CI N/A review notes | ⬜ |
+| **0** | Plan, schema, country briefs, branch | ✅ Done |
+| **1** | Parallel sub-agent research (8 countries; CA done) | ✅ Done (2026-07-23) |
+| **2** | Lead agent consolidates raw notes → draft CSVs | ✅ Done |
+| **3** | Official-source verification pass (fees + immigration) | ✅ Spot-check + `research/phase3-verification-log.md` |
+| **4** | Self-review checklist + fix duplicates/errors | ✅ Tier math + shortlist |
+| **5** | Commit, push, PR update, CI N/A review notes | ✅ |
 
 ---
 
