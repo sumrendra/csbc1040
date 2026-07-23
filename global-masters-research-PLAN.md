@@ -164,9 +164,7 @@ git push -u origin cursor/global-masters-csv-9-countries-7dd3
 | Date | Action |
 |------|--------|
 | 2026-07-23 | Canada CSV verified; 9-country shortlist; PLAN created |
-| | Phase 1 sub-agents: pending |
-| | Ireland CSV: pending |
-| | … | |
+| 2026-07-23 | Phase 1–2: 8 country drafts → 8 CSVs (468 new rows + 83 CA) |
 
 ---
 

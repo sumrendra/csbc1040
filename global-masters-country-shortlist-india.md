@@ -39,7 +39,7 @@ Proceed with **country-by-country program CSVs** (same style as Canada) for thes
 | 6 | **Portugal** | B | Often **2 years**; some 1-year / executive routes | Public masters often **€500–€2,500/year** (institution-dependent) | **Art. 122 (alínea p)** — **~12 months** to seek work after completing degree **in Portugal** (AIMA; apply before student permit expires) |
 | 7 | **Poland** | B | Usually **2-year** MSc (120 ECTS) | Often **€3k–€8k/year** total tuition at public unis | **9-month** “graduate” temporary residence to seek work **+** work-permit exemption for grads of **listed** full-time universities (rules tightened **2025**) |
 | 8 | **Italy** | B | Mostly **2-year** Laurea Magistrale (120 CFU) | Public **~€900–€4,000/year** (ISEE / flat rates) | **~12-month** job-seeker permesso after graduation |
-| 9 | **New Zealand** | A | OK if master’s is **≥30 weeks** full-time in NZ | Often **NZD $35k–$45k+** for business—**many programs exceed** CAD $30k; filter hard | **PSWV up to 3 years** if master’s studied in NZ **≥30 weeks** |
+| 9 | **New Zealand** | A | OK if master’s is **≥30 weeks** full-time in NZ | Often **NZD $35k–$45k** — use **Premium_OK** up to ~CAD $38k | **PSWV up to 3 years** if master’s studied in NZ **≥30 weeks** |
 
 \*Germany: pathway is very strong **after** degree, but admission (ANABIN/VPD, English program slots, 2-year duration) is less “automatic” than Canada/Ireland/UK.
 
