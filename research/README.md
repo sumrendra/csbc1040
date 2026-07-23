@@ -20,3 +20,6 @@ Indian BBA profile · ~12-month master’s where available · post-study work ·
 
 **Shortlist (business, under budget):** [`global-masters-shortlist-business-under-budget.csv`](../global-masters-shortlist-business-under-budget.csv)
 
+**India BBA curated (12 mo, top 30):** [`india-bba-top30-one-year-masters.csv`](../india-bba-top30-one-year-masters.csv) · [`india-bba-top30-RATIONALE.md`](../india-bba-top30-RATIONALE.md)
+
+Raw research: `research/countries/<country>/raw-findings.md` + `draft-programs.json`.

@@ -105,7 +105,7 @@ def main():
             if key in seen:
                 continue
             seen.add(key)
-            out.append({k: r.get(k, "") for k in FIELDS})
+            out.append({k: r.get(k, "") or "2026-07-23" if k == "Last_verified" else "" for k in FIELDS})
 
     out.sort(key=lambda x: (x["Country"], float(x["Intl_tuition_CAD_verified"] or 0)))
     out_path = ROOT / "global-masters-shortlist-business-under-budget.csv"
